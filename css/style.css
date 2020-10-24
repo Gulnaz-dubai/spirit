@@ -188,6 +188,11 @@ img{
     font-size: 12px;
     text-transform: uppercase;
     margin-top: 40px;
+    transition: .6s;
+}
+.about-btn:hover{
+    background: #e0dada;
+
 }
 
 .about-btn img {
@@ -456,18 +461,18 @@ img{
 }
 
 /*Owl carousel*/
-.owl-prev span, .owl-next span{
-    font-size: 40px;
-    position: absolute;
-}
-.owl-prev span{
-    right: 54%;
-    transform: translateX(50%);
-}
-.owl-next span{
-    left: 53%;
-    transform: translateX(50%);
-}
+/*.owl-prev span, .owl-next span{*/
+/*    font-size: 40px;*/
+/*    position: absolute;*/
+/*}*/
+/*.owl-prev span{*/
+/*    right: 54%;*/
+/*    transform: translateX(50%);*/
+/*}*/
+/*.owl-next span{*/
+/*    left: 53%;*/
+/*    transform: translateX(50%);*/
+/*}*/
 /*///////////*/
 .contacts{
     padding: 100px 0;
@@ -478,13 +483,16 @@ img{
 .btn{
     width: 165px;
     height: 40px;
-    background: #fcac45;
+    background: #db9a4d;
     color: #fff;
     border: none;
     border-radius: 5px;
     margin-top: 15px;
     float: right;
-
+}
+.btn:hover{
+    background: #f5c07b;
+    color: #fff;
 }
 footer{
     background: #222222;
@@ -509,6 +517,9 @@ footer .container{
     margin-left: 20px;
     justify-content: center;
     align-items: center;
+}
+.footer-icons:hover{
+    background: #3c3b3b;
 }
 .footer-text span{
 font-weight: 700;

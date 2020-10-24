@@ -36,36 +36,13 @@
       <change afterPath="$PROJECT_DIR$/../position/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sassfile/css/main.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sassfile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fontello.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/about-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/case.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/our.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ourteam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sebastian-scheuer-CZi-MtzZVuo-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +50,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1irBXmRRkAQPi0ePqCx34X9tXLQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -116,7 +93,8 @@
       <workItem from="1603133385070" duration="5437000" />
       <workItem from="1603192212316" duration="1625000" />
       <workItem from="1603388296068" duration="8834000" />
-      <workItem from="1603475551237" duration="278000" />
+      <workItem from="1603475551237" duration="2599000" />
+      <workItem from="1603539807507" duration="2313000" />
     </task>
     <servers />
   </component>

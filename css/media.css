@@ -229,8 +229,11 @@
         padding: 40px 0;
     }
     .footer-text{
-        font-size: 11px;
+        font-size: 9px;
     }
+   .footer-icons{
+       margin-left: 8px;
+   }
     .btn{
         float: none;
         display: block;
